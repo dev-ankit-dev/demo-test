@@ -10,6 +10,8 @@ public class DemoTestApplication {
 		SpringApplication.run(DemoTestApplication.class, args);
 	
 		System.out.println("hello demo-Ankit");
+		System.out.println("hello demo-latest");
+		System.out.println("hello demo-testing");
 
 		
 	}
