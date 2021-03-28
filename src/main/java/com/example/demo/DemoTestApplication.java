@@ -11,7 +11,7 @@ public class DemoTestApplication {
 	
 		System.out.println("hello demo-Ankit");
 		System.out.println("hello demo-Tiwari");
-		System.out.println("hello demo-testing");
+		System.out.println("hello demo-test");
 		
 	}
 
